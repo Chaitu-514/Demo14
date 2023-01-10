@@ -17,6 +17,8 @@ public class DemoTest1 {
 	public void m1()
 	{
 		Reporter.log("hello",true);
+		Reporter.log("Heloooo");
+		
 	}
 
 }
